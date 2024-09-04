@@ -68,3 +68,5 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+
+![shoe4](https://github.com/user-attachments/assets/40b7d2a8-625c-4e1c-9082-5c7356ac5a7d)
